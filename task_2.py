@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-# Load color image
+# Load color image from file
 image = cv2.imread('photo.jpg')
 
 # Convert color spaces
